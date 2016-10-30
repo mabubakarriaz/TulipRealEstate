@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tulip_MVC")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Net.Tulip.Web.MVC461 v1.0")]
+[assembly: AssemblyDescription("Real Estate Web app")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tulip_MVC")]
+[assembly: AssemblyCompany("RealEstate")]
+[assembly: AssemblyProduct("Tulip")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Tulip_MVC
+namespace Net.Tulip.Web.MVC
 {
     public class MvcApplication : System.Web.HttpApplication
     {
